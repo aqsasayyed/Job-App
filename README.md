@@ -1,4 +1,4 @@
-## HireToday is a job search application built using React Native. It aims to assist users in finding job opportunities that align with their interests and qualifications.
+## HireToday is a job searching application built using React Native. It aims to assist users in finding job opportunities that align with their interests and qualifications.
 
 Key Features:
 1. User-Friendly Interface: HireToday offers an intuitive and visually appealing user interface, ensuring a seamless and engaging user experience.
