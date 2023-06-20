@@ -9,9 +9,9 @@
 ![Job2](https://github.com/aqsasayyed/Job-App/assets/84732662/49f8141b-583d-40d3-8e42-84c391140c33)
 
 
-In Job App react native application I have done:
-- developed visually appealing UI/UX designs
-- fetch data from an external API and integrate it
-- implement search & pagination functionality
-- created customAPI data fetching hooks
+In the Job App which is an React Native application, I have accomplished the following:
 
+Designed visually appealing UI/UX interfaces.
+Implemented the functionality to fetch data from an external API and seamlessly integrate it into the application.
+Developed search and pagination features to enhance user experience and navigation within the app.
+Created custom API data fetching hooks to efficiently retrieve data from the API.
