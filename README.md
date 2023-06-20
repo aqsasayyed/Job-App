@@ -1,20 +1,20 @@
-## Job App is an react native application which helps user to find jobs of their interest.
-![Job1](https://github.com/aqsasayyed/Job-App/assets/84732662/02c90bd7-b1b0-42a2-98b0-1a408d38102d)
+## HireToday is a job search application built using React Native. It aims to assist users in finding job opportunities that align with their interests and qualifications.
 
-![Search Page](https://github.com/aqsasayyed/Job-App/assets/84732662/a6148f9f-0a2d-4ead-b5c8-ea51689e2e85)
+Key Features:
+1. User-Friendly Interface: HireToday offers an intuitive and visually appealing user interface, ensuring a seamless and engaging user experience.
 
-![Loading](https://github.com/aqsasayyed/Job-App/assets/84732662/3e0df9d8-98c9-46be-9cbd-839e9c859590)
+2. Comprehensive Job Search: The application fetches data from various external APIs, providing users with an extensive range of job listings.
 
+3. Personalized Recommendations: HireToday leverages user preferences and qualifications to offer tailored job recommendations, enhancing the job search process.
 
-![Job2](https://github.com/aqsasayyed/Job-App/assets/84732662/49f8141b-583d-40d3-8e42-84c391140c33)
+4. Efficient Navigation: The implementation of search and pagination functionality enables users to efficiently navigate through the app, making it easier to find relevant job opportunities.
 
+5. Custom API Integration: The development includes custom API data fetching hooks, ensuring optimal performance and efficient retrieval of job data.
 
-In the Job App which is an React Native application, I have accomplished the following:
+![Home](https://github.com/aqsasayyed/Job-App/assets/84732662/19241164-a013-47c8-a952-a537886450d7)
 
-• Designed visually appealing UI/UX interfaces.
+![react](https://github.com/aqsasayyed/Job-App/assets/84732662/d8ac4d4f-2536-465f-966c-7a9c53b489ce)
 
-• Implemented the functionality to fetch data from an external API and seamlessly integrate it into the application.
+![loading](https://github.com/aqsasayyed/Job-App/assets/84732662/b72ac44c-714c-41d8-b27d-e67db569af27)
 
-• Developed search and pagination features to enhance user experience and navigation within the app.
-
-• Created custom API data fetching hooks to efficiently retrieve data from the API.
+![pages](https://github.com/aqsasayyed/Job-App/assets/84732662/7f1b5200-437e-4a7d-b17a-17a28f0cdf50)
