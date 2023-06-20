@@ -12,6 +12,9 @@
 In the Job App which is an React Native application, I have accomplished the following:
 
 • Designed visually appealing UI/UX interfaces.
+
 • Implemented the functionality to fetch data from an external API and seamlessly integrate it into the application.
+
 • Developed search and pagination features to enhance user experience and navigation within the app.
+
 • Created custom API data fetching hooks to efficiently retrieve data from the API.
